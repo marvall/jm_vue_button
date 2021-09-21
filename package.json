@@ -1,0 +1,22 @@
+{
+  "name": "jm_vue_button",
+  "version": "0.0.1",
+  "description": "Example to create npm package",
+  "main": "Button.vue",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marvall/jm_vue_button.git"
+  },
+  "keywords": [
+    "VueJs",
+    "button"
+  ],
+  "author": "yariknarik.xxx@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marvall/jm_vue_button/issues"
+  },
+  "homepage": "https://github.com/marvall/jm_vue_button/blob/main/README.md"
+}
